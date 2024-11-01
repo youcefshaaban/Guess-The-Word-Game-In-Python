@@ -22,8 +22,9 @@ while userGuess != word and guesses > 1:
 else:
     print("You Have Guess The Word Correctly!! ;)")
 ```
-
-just Download Python From [Python Org](https://python.org)
+# Requirments
+- just Download Python From [Python Org](https://python.org)
+- Also You Need To Have A Compiler Or Just Click On The File To Open It
 
 Check If Python Works Or Not
 
@@ -36,5 +37,3 @@ if it's Give You This Message
 ```bash
 python 3.13.0
 ```
-
-it will give you your python version if it didin't 
